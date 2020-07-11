@@ -6,7 +6,11 @@ Com participação em projetos de renome como Carrefour.com, Peugeot e Citroen, 
 
 Totalmente habituado e confortável com ferramentas de desenvolvimento como GIT (GitHub/BitBucket), NPM, Yarn, Gulp, Webpack, etc. Mentalidade e metodologias focadas em Responsividade e Mobile First sempre! além de SEO, Acessibilidade e sólidos conhecimentos em UX/UI.
 
-<!-- ### Hi there 👋 -->
+| ⚡ Programming | 💬 Professional | 😄 Hobbies |
+| --- | --- | --- |
+| [Gist](https://gist.github.com/renatoam) | [LinkedIn](https://www.linkedin.com/in/renatoam/) | [Geekabilidade](geekabilidade.com.br) |
+| [FrontEnding](frontending.com.br) | [Email](mailto:renatoalves92@gmail.com) | [Medium](https://medium.com/@renatoam)
+| [CodePen](https://codepen.io/renatoamelo) |
 
 <!--
 **renatoam/renatoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
