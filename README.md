@@ -9,8 +9,9 @@ Totalmente habituado e confortável com ferramentas de desenvolvimento como GIT 
 | ⚡ Programming | 💬 Professional | 😄 Hobbies |
 | --- | --- | --- |
 | [Gist](https://gist.github.com/renatoam) | [LinkedIn](https://www.linkedin.com/in/renatoam/) | [Geekabilidade](geekabilidade.com.br) |
-| [FrontEnding](frontending.com.br) | [Email](mailto:renatoalves92@gmail.com) | [Medium](https://medium.com/@renatoam)
-| [CodePen](https://codepen.io/renatoamelo) |
+| [FrontEnding](frontending.com.br) | [Email](mailto:renatoalves92@gmail.com) | [Geekabilidade Instagram](https://www.instagram.com/geekabilidade)
+| [CodePen](https://codepen.io/renatoamelo) | | [Medium](https://medium.com/@renatoam)
+| [FrontEnding Instagram](https://www.instagram.com/frontendingbr/)
 
 <!--
 **renatoam/renatoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
