@@ -1,10 +1,17 @@
 # Renato Melo
 
-Desenvolvedor Front-End completamente apaixonado pela profissão, descobri que um dos meu hobbies preferidos - e eu tenho muitos - é estudar programação. Hoje, me considero um evangelista do desenvolvimento Front-End.  Com estudo diário, que há muito deixou de ser dever pra se tornar uma atividade prazerosa e produtiva, me mantenho focado no objetivo de me tornar um especialista Javascript.
+Front-End Developer completely in love with the profession, I discovered that one of my favorite hobbies - and I have many - is to study programming. Today, I consider myself a web development evangelist.
 
-Com participação em projetos de renome como Carrefour.com, Peugeot e Citroen, Hering, entre outros, desenvolvi sólidos conhecimentos em desenvolvimento com HTML, CSS, JavaScript e seus respectivos frameworks, como React, Vue, Bootstrap, Bulma, jQuery, Pug, etc., além de ótima experiência com grandes plataformas de e-commerce, como VTEX e SAP Hybris. 
+With daily study and participation in renowned projects such as Carrefour, Peugeot/Citroen, Hering, SESC, government projects, among others, I keep myself focused on the goal of becoming a full web developer, Javascript skilled.
 
-Totalmente habituado e confortável com ferramentas de desenvolvimento como GIT (GitHub/BitBucket), NPM, Yarn, Gulp, Webpack, etc. Mentalidade e metodologias focadas em Responsividade e Mobile First sempre! além de SEO, Acessibilidade e sólidos conhecimentos em UX/UI.
+The full web developer that I want to become can handle from conception to solution delivery, going through User Experience and User Interface development, delivering front-end, back -end and mobile, and ensuring the application deploy.
+
+Of course that I don't want to become a specialist in all these stuffs, that's impossible, but having this background, although difficult, is very possível. The road is long, but so pleasant.
+
+This is the way!
+
+Hobbies
+🎥💵📝✒️📖💻🗣💭⚽️🎤 🎧 🎬 🎮 
 
 | ⚡ Programming | 💬 Professional | 😄 Hobbies |
 | --- | --- | --- |
