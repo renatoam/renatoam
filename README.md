@@ -1,36 +1,28 @@
-# Renato Melo
+In love 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝟱+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in web development. I have been helping companies to deliver great user experiences and performatic solutions.
 
-Front-End Developer completely in love with the profession, I discovered that one of my favorite hobbies - and I have many - is to study programming. Today, I consider myself a web development evangelist.
+As a software engineer I design, develop, test, deploy, maintain, and improve software. Always based on 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀, 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀 and 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿𝗶𝗻𝗴 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀. I also like to propose coding best practices and code review strategies.
 
-With daily study and participation in renowned projects such as Carrefour, Peugeot/Citroen, Hering, SESC, government projects, among others, I keep myself focused on the goal of becoming a full web developer, Javascript skilled.
+As a 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗹𝗲𝗮𝗱𝗲𝗿, I manage individual and team priorities, deadlines, and deliverables. Also promoting knowledge sharing and contributing to onboarding documentation for new engineers.
 
-The full web developer that I want to become can handle from conception to solution delivery, going through User Experience and User Interface development, delivering front-end, back -end and mobile, and ensuring the application deploy.
+Some of the projects I help to develop include:
 
-Of course that I don't want to become a specialist in all these stuffs, that's impossible, but having this background, although difficult, is very possível. The road is long, but so pleasant.
+- 𝗖𝗮𝗿𝗿𝗲𝗳𝗼𝘂𝗿: I was in the project from its beginning until their e-commerce to become relevant.
 
-This is the way!
+- 𝗣𝗲𝘂𝗴𝗲𝗼𝘁/𝗖𝗶𝘁𝗿𝗼𝗲𝗻: I helped them to create a platform that guides customers to buy their new cars. Not only buy a car, but a personalized one.
+
+- 𝗕𝗲𝗲𝘀/𝗔𝗺𝗕𝗲𝘃: I have been working hard as a technical leader to help Bees to become a reliable B2B platform. I work on improving the codebase as well as improving the architecture. Also I guide people to reach out their best.
+
+I'm able 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗱𝗲𝘁𝗮𝗶𝗹𝘀, since I'm confident, articulate and self-motivated. Also, I have a strong sense of personal ownership and accountability.
+
+I have been working for international companies for 2+ years, so I'm able to 𝘄𝗿𝗶𝘁𝗲 𝗮𝗻𝗱 𝘀𝗽𝗲𝗮𝗸 𝗶𝗻 𝗲𝗻𝗴𝗹𝗶𝘀𝗵.
+
+Besides being a developer 𝗜'𝗺 𝗮 𝘁𝗲𝗮𝗰𝗵𝗲𝗿. I love to help people in their career path. Whether junior developers to get better or introducing web dev for new comers.
+
+🐱💻💾
+https://github.com/renatoam
+
+✏️📜📝
+https://medium.com/@renatoam
 
 Hobbies
-🎥💵📝✒️📖💻🗣💭⚽️🎤 🎧 🎬 🎮 
-
-| ⚡ Programming | 💬 Professional | 😄 Hobbies |
-| --- | --- | --- |
-| [Gist](https://gist.github.com/renatoam) | [LinkedIn](https://www.linkedin.com/in/renatoam/) | [Geekabilidade](geekabilidade.com.br) |
-| [FrontEnding](frontending.com.br) | [Email](mailto:renatoalves92@gmail.com) | [Geekabilidade Instagram](https://www.instagram.com/geekabilidade)
-| [CodePen](https://codepen.io/renatoamelo) | | [Medium](https://medium.com/@renatoam)
-| [FrontEnding Instagram](https://www.instagram.com/frontendingbr/)
-
-<!--
-**renatoam/renatoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎥💵📝✒️📖💻🗣💭⚽️🎤 🎧 🎬 🎮
