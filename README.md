@@ -18,11 +18,8 @@ I have been working for international companies for 2+ years, so I'm able to �
 
 Besides being a developer 𝗜'𝗺 𝗮 𝘁𝗲𝗮𝗰𝗵𝗲𝗿. I love to help people in their career path. Whether junior developers to get better or introducing web dev for new comers.
 
-🐱💻💾
-https://github.com/renatoam
-
-✏️📜📝
-https://medium.com/@renatoam
+💻💾
+https://www.linkedin.com/in/renatoamelo/
 
 Hobbies
 🎥💵📝✒️📖💻🗣💭⚽️🎤 🎧 🎬 🎮
